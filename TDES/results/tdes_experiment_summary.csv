@@ -1,0 +1,4 @@
+experiment,trials,successes,success_rate,mean_elapsed_sec,total_elapsed_sec,reference_successes
+correctness,10,10,1.0,0.045486700000000005,0.454867,10
+key_recovery,10,10,1.0,1.3288655400043354,13.3130974000087,
+key_recovery,1000,1000,1.0,1.4796969480003463,1479.8890528999036,
